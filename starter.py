@@ -113,6 +113,7 @@ print(len(friends))
 
 friends.insert(2, 'Benjamin')
 print(friends)
+
 # Problem 15
 # Remove the last item in the array (try to think about how you can do this dynamically, meaning, if the array contents were to change, your code would still work).
 
